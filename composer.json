@@ -29,12 +29,12 @@
   },
   "require": {
     "php": ">=7.3.0",
-    "atk4/ui": "2.4.*",
-    "atk4/data": "2.4.*"
+    "atk4/ui": "~3",
+    "atk4/data": "~3"
   },
   "require-release": {
     "php": ">=7.3.0",
-    "atk4/ui": "~2.4.0"
+    "atk4/ui": "~3"
   },
   "require-dev": {
     "behat/behat": "^3.8",
